@@ -11,6 +11,7 @@ public class Main {
                     + "<title>Docker確認課題</title></head><body>"
                     + "<h1>GitHubとDockerの確認課題</h1>"
                     + "<p>Javaプログラムから表示しています</p>"
+                    + "<p>2回目のコミットで追加しました</p>"
                     + "</body></html>";
             byte[] bytes = html.getBytes("UTF-8");
 
